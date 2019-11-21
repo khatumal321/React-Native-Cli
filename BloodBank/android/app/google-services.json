@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075371251867",
+    "firebase_url": "https://raisingstar-5504c.firebaseio.com",
+    "project_id": "raisingstar-5504c",
+    "storage_bucket": "raisingstar-5504c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075371251867:android:93c8d3cf4b42ca8eac0e3e",
+        "android_client_info": {
+          "package_name": "com.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075371251867-i8rj5ukq9r0dl46j1n1q732to44h1bbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-TEESYLT90Tmoy8h4rU_J_uKKItalXeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075371251867-i8rj5ukq9r0dl46j1n1q732to44h1bbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
